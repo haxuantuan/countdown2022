@@ -1,0 +1,30 @@
+@media (min-width:320px) and (max-width:666px){
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    h3{
+        display: none;
+    }
+    .h3{
+        display: block;
+        font-size: 30px;
+        color: gold;
+        text-align: center;
+    }
+   .time{
+       display: none;
+   }
+   .tat{
+       display: block;
+   }
+   .countdown{
+   width: 300px;
+   flex-wrap: wrap;
+}
+.chua{
+    margin: 5px 5px;
+}
+}
